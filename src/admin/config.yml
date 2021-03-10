@@ -13,5 +13,5 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Categories", name: "categories", widget: "select", widget: "select", multiple: true, options: ["Design", "UX", "Dev"], default: ["Design"]}
+      - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["Design", "UX", "Dev"], default: ["Design"]}
       - {label: "Body", name: "body", widget: "markdown"} # Branch to update (optional; defaults to master)
