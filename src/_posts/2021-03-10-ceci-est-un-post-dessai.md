@@ -2,6 +2,9 @@
 layout: post
 title: Ceci est un post d'essai
 date: 2021-03-10T10:50:02.985Z
+categories:
+  - UX
+  - Design
 ---
 ## Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non risus neque. In hac habitasse platea dictumst. 
 
